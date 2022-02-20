@@ -83,10 +83,10 @@ WSGI_APPLICATION = 'DoiXe.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'QLDoiXe',
-        'USER': 'TrinhDuyen',
-        'PASSWORD': '070712',
-        'HOST': 'localhost',
+        'NAME': 'dd40mhr2m0hkn7',
+        'USER': 'ffskpiybzjywno',
+        'PASSWORD': '2ca6b854c81f2b48a017292ecac72e198dfd1c69414968bf63928ef9125c2856',
+        'HOST': 'ec2-50-19-32-96.compute-1.amazonaws.com',
         'PORT': '5432'
         
     }
